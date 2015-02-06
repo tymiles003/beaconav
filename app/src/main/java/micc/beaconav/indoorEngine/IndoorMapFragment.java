@@ -38,6 +38,7 @@ import micc.beaconav.localization.Position;
 public class IndoorMapFragment extends Fragment implements OnTouchListener, JSONHandler<VertexRow>
 {
 
+    // bene..
     // these matrices will be used to move and zoom image
     private Matrix matrix = new Matrix();
     private Matrix savedMatrix = new Matrix();
